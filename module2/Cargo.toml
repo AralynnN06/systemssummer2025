@@ -1,0 +1,5 @@
+[workspace]
+members =[
+    "sum_with_step",
+    "word_frequency_ctr"
+]

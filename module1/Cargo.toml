@@ -1,0 +1,6 @@
+[workspace]
+members = {
+    "temperature_converter",
+    "number_analyzer",
+    "guess_game"
+}

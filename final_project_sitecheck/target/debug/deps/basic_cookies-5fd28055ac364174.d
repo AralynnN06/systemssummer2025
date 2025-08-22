@@ -1,0 +1,13 @@
+/workspaces/systemssummer2025/final_project_sitecheck/target/debug/deps/basic_cookies-5fd28055ac364174.d: /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/basic-cookies-0.1.5/src/lib.rs /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/basic-cookies-0.1.5/src/cookie.rs /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/basic-cookies-0.1.5/src/cookie_lexer.rs /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/basic-cookies-0.1.5/src/linked_list.rs /workspaces/systemssummer2025/final_project_sitecheck/target/debug/build/basic-cookies-a02dbea332be00fe/out/cookie_grammar.rs
+
+/workspaces/systemssummer2025/final_project_sitecheck/target/debug/deps/libbasic_cookies-5fd28055ac364174.rlib: /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/basic-cookies-0.1.5/src/lib.rs /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/basic-cookies-0.1.5/src/cookie.rs /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/basic-cookies-0.1.5/src/cookie_lexer.rs /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/basic-cookies-0.1.5/src/linked_list.rs /workspaces/systemssummer2025/final_project_sitecheck/target/debug/build/basic-cookies-a02dbea332be00fe/out/cookie_grammar.rs
+
+/workspaces/systemssummer2025/final_project_sitecheck/target/debug/deps/libbasic_cookies-5fd28055ac364174.rmeta: /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/basic-cookies-0.1.5/src/lib.rs /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/basic-cookies-0.1.5/src/cookie.rs /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/basic-cookies-0.1.5/src/cookie_lexer.rs /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/basic-cookies-0.1.5/src/linked_list.rs /workspaces/systemssummer2025/final_project_sitecheck/target/debug/build/basic-cookies-a02dbea332be00fe/out/cookie_grammar.rs
+
+/home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/basic-cookies-0.1.5/src/lib.rs:
+/home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/basic-cookies-0.1.5/src/cookie.rs:
+/home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/basic-cookies-0.1.5/src/cookie_lexer.rs:
+/home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/basic-cookies-0.1.5/src/linked_list.rs:
+/workspaces/systemssummer2025/final_project_sitecheck/target/debug/build/basic-cookies-a02dbea332be00fe/out/cookie_grammar.rs:
+
+# env-dep:OUT_DIR=/workspaces/systemssummer2025/final_project_sitecheck/target/debug/build/basic-cookies-a02dbea332be00fe/out

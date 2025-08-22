@@ -1,0 +1,3 @@
+https://example.com
+https://httpbin.org/status/404
+https://httpbin.org/delay/10
